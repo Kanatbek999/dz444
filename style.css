@@ -1,0 +1,46 @@
+*{
+    background: url(/img/gxpcdkwe3kh450fp0yzz.webp) no-repeat;
+    background-size: cover;
+    padding: 0;
+    margin: 0;
+    position: relative;
+}
+.wrapper {
+    text-align: center;
+    align-items: center;
+    
+    justify-content: center;
+    
+}
+
+
+h1 { 
+    font-size: 72px;
+    line-height: 86px;
+    align-items: center;
+    text-transform: uppercase;
+}
+
+h1 {
+    font-style: inherit;
+    
+}
+
+#btnplus {
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    background: greenyellow;
+}
+
+#btnmunys {
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    background: red;
+}
+
+.numb {
+    font-size: 50px;
+}
+
